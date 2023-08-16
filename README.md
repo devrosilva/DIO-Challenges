@@ -7,4 +7,3 @@ This repository contains some of the Challenges proposed by the learning platfor
 02. Shopping at the supermarket.
 03. End of year uniforms.
 04. Bank queue
-05. Gymkhana
